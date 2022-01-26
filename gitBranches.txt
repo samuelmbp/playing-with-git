@@ -1,0 +1,2 @@
+
+- Git branches are effectively a pointer to a snapshot of your changes
